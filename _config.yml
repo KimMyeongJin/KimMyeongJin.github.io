@@ -6,10 +6,10 @@
 name: MyeongJinKim
 
 # Short bio or description (displayed in the header)
-description: Dreams come True
+description:Dreams come True
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/mong.png
+avatar:https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/mong.png
 
 #
 # Flags below are optional
@@ -21,12 +21,12 @@ footer-links:
   email:kimlotte0311@gmail.com
   facebook:
   flickr:
-  github: KimMyeongJin/lagom
+  github:KimMyeongJin
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: kimlotte0311
+  twitter:kimlotte0311
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
